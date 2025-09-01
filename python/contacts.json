@@ -1,0 +1,25 @@
+{
+    "contacts": [
+        {
+            "firstName": "John",
+            "lastName": "Doe",
+            "countryCode": "+1",
+            "phoneNumber": "1234567890",
+            "email": "johndoe@gmail.com"
+        },
+        {
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "countryCode": "+91",
+            "phoneNumber": "9876543210",
+            "email": "janedoe@gmail.com"
+        },
+        {
+            "firstName": "Alice",
+            "lastName": "Johnson",
+            "countryCode": "+1",
+            "phoneNumber": "5551234567",
+            "email": "alicejohnson@gmail.com"
+        }
+    ]
+}
